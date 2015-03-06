@@ -81,8 +81,8 @@ def vocabulary():
 
 
 def send_email():
-	FROM = "prakash.gbpec@gmail.com"
-	TO = "prakash.kumar94@live.com"
+	FROM = "aaa_42kur@yahoo.co.in"
+	TO = "ankursrivastav9958@gmail.com"
 	SUBJECT = "Delhi Headlines"
         msgRoot=MIMEMultipart('related')
         msgRoot['Subject']=SUBJECT
